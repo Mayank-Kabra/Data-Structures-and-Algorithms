@@ -4,6 +4,9 @@ I have created this repo to upload all the data structures and Algorithms i will
 Chapters covered so far:
 
 Sorting :
+
     -Bubble Sort
+    
     -Selection Sort
+    
     -Insertion Sort
